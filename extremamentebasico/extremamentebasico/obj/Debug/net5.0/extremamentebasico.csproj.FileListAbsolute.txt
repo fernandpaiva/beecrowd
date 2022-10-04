@@ -1,0 +1,16 @@
+C:\Users\ferna\source\repos\beecrowd\extremamentebasico\extremamentebasico\bin\Debug\net5.0\extremamentebasico.exe
+C:\Users\ferna\source\repos\beecrowd\extremamentebasico\extremamentebasico\bin\Debug\net5.0\extremamentebasico.deps.json
+C:\Users\ferna\source\repos\beecrowd\extremamentebasico\extremamentebasico\bin\Debug\net5.0\extremamentebasico.runtimeconfig.json
+C:\Users\ferna\source\repos\beecrowd\extremamentebasico\extremamentebasico\bin\Debug\net5.0\extremamentebasico.runtimeconfig.dev.json
+C:\Users\ferna\source\repos\beecrowd\extremamentebasico\extremamentebasico\bin\Debug\net5.0\extremamentebasico.dll
+C:\Users\ferna\source\repos\beecrowd\extremamentebasico\extremamentebasico\bin\Debug\net5.0\extremamentebasico.pdb
+C:\Users\ferna\source\repos\beecrowd\extremamentebasico\extremamentebasico\obj\Debug\net5.0\extremamentebasico.csproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\beecrowd\extremamentebasico\extremamentebasico\obj\Debug\net5.0\extremamentebasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\source\repos\beecrowd\extremamentebasico\extremamentebasico\obj\Debug\net5.0\extremamentebasico.AssemblyInfoInputs.cache
+C:\Users\ferna\source\repos\beecrowd\extremamentebasico\extremamentebasico\obj\Debug\net5.0\extremamentebasico.AssemblyInfo.cs
+C:\Users\ferna\source\repos\beecrowd\extremamentebasico\extremamentebasico\obj\Debug\net5.0\extremamentebasico.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\beecrowd\extremamentebasico\extremamentebasico\obj\Debug\net5.0\extremamentebasico.dll
+C:\Users\ferna\source\repos\beecrowd\extremamentebasico\extremamentebasico\obj\Debug\net5.0\refint\extremamentebasico.dll
+C:\Users\ferna\source\repos\beecrowd\extremamentebasico\extremamentebasico\obj\Debug\net5.0\extremamentebasico.pdb
+C:\Users\ferna\source\repos\beecrowd\extremamentebasico\extremamentebasico\obj\Debug\net5.0\extremamentebasico.genruntimeconfig.cache
+C:\Users\ferna\source\repos\beecrowd\extremamentebasico\extremamentebasico\obj\Debug\net5.0\ref\extremamentebasico.dll
